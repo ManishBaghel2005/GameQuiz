@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.correct{
+  background-color:  #ddfff2;
+  border-color: rgb(134, 250, 182)
+}
+
+.wrong{
+  background-color:  #eeeaec;
+  border-color: rgb(255, 54, 54)
+}
